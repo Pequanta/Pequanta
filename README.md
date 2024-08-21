@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software developer and currently working on web design<br>I am learning and working with FARMStack<br>I am also passionate about Machine learning
+I am a software developer and currently focusing on web design<br>I am learning and working with FARMStack<br>I am also passionate about Machine learning
 
 
 ## 🌐 Socials:
