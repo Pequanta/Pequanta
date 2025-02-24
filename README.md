@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software develope<br>
+Software developer<br>
 
 
 ## 🌐 Socials:
